@@ -1,0 +1,41 @@
+/* style.css */
+
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+.counter-container {
+  display: flex;
+  align-items:center; 
+  justify-content: center;
+  color: white;
+  font-size: 2rem;
+  background-color: black;
+}
+
+.icon {
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+ 
+}
+
+.h1 {
+font-size: 0.5rem;
+}
+
+.digit-container {
+  display: flex;
+  align-items: center;
+}
+
+.digit {
+  font-size: 3rem;
+  margin: 0 0.2rem;
+  
+}
